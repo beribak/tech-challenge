@@ -1,0 +1,21 @@
+{
+  "name": "tech-challenge",
+  "version": "1.0.0",
+  "description": "Notes on technical challenge and interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "serve": "webpack serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.79.0",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.13.2"
+  },
+  "dependencies": {
+    "apexcharts": "^3.37.3"
+  }
+}
